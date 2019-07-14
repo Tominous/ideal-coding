@@ -25,7 +25,7 @@ Squid: 200000
 Wolf: 200000
 Mooshroom: 350000
 
-#Messages - Color Codes do work
+#Messages - Colour Codes do work
 #Message Sent when a person buys a spawner
 #Example - ZombieMsg: 'You bought a spawner'
 CreeperMsg: '&aYou just purchased a &eCreeper Spawner'
